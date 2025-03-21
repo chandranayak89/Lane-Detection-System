@@ -176,4 +176,4 @@ This project is intended as an educational resource for computer vision and auto
 
 ## Contact
 
-If you have any questions or suggestions, please open an issue in this repository. 
+If you have any questions or suggestions, please open an issue in this repository.
